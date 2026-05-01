@@ -1,0 +1,28 @@
+{
+	"name": "@kilyakus/js-scrollview",
+	"productName": "ScrollView",
+	"version": "8.26.4",
+	"description": "Is a high-performance custom scrollbar solution for web applications, providing smooth scrolling and advanced styling options.",
+	"main": "js/scrollview.min.js",
+	"style": "css/scrollview.min.css",
+	"author": "Aleksandr Kilyakov",
+	"authorUsername": "Kilyakus",
+	"contributors": [
+		{
+			"name": "Adrien Denat (Grsmto)",
+			"url": "https://github.com/Grsmto/simplebar",
+			"info": "SimpleBar v6.2.7",
+			"originalLicense": "MIT License",
+			"originalLicenseUrl": "https://github.com/Grsmto/simplebar/blob/master/LICENSE"
+		}
+	],
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/@kilyakus/js-scrollview.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
